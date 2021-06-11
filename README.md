@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ajay
-- i'm Web Developer
+- i'm Reactjs Developer
 
